@@ -22,16 +22,16 @@ public class RegistrationPage extends AbstractPage {
     @FindBy(id = "password")
     private WebElement passwordInput;
 
-    @FindBy(id = "street")
+    @FindBy(name = "street")
     private WebElement streetInput;
 
-    @FindBy(id = "city")
+    @FindBy(name = "city")
     private WebElement cityInput;
 
-    @FindBy(id = "zipcode")
+    @FindBy(name = "zip")
     private WebElement zipcodeInput;
 
-    @FindBy(id = "register_btn")
+    @FindBy(id = "register-btn")
     private WebElement registerButton;
 
     public RegistrationPage(WebDriver driver){
