@@ -4,14 +4,14 @@
         <parameter name="noOfPassengers" value="1"/>
         <parameter name="expectedPrice" value="$584 USD"/>
         <classes>
-            <class name="com.bny.flightreservation.FlightReservationTest"/>
+            <class name="com.bny.tests.flightreservation.FlightReservationTest"/>
         </classes>
     </test>
     <test name="passengers-count-2">
         <parameter name="noOfPassengers" value="2"/>
         <parameter name="expectedPrice" value="$1169 USD"/>
         <classes>
-            <class name="com.bny.flightreservation.FlightReservationTest"/>
+            <class name="com.bny.tests.flightreservation.FlightReservationTest"/>
         </classes>
     </test>
 
@@ -19,14 +19,14 @@
         <parameter name="noOfPassengers" value="3"/>
         <parameter name="expectedPrice" value="$1753 USD"/>
         <classes>
-            <class name="com.bny.flightreservation.FlightReservationTest"/>
+            <class name="com.bny.tests.flightreservation.FlightReservationTest"/>
         </classes>
     </test>
     <test name="passengers-count-4">
         <parameter name="noOfPassengers" value="4"/>
         <parameter name="expectedPrice" value="$2338 USD"/>
         <classes>
-            <class name="com.bny.flightreservation.FlightReservationTest"/>
+            <class name="com.bny.tests.flightreservation.FlightReservationTest"/>
         </classes>
     </test>
 
