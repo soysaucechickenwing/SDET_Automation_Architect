@@ -1,0 +1,246 @@
+235  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/wyatt/Library/Caches/JetBrains/IntelliJIdea2024.2/temp-testng-customsuite.xml
+
+5391 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.76 (resolved driver for Chrome 141)
+5453 [main] INFO  i.g.b.wdm.online.Downloader -- Downloading https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.76/mac-arm64/chromedriver-mac-arm64.zip
+5753 [main] INFO  i.g.b.wdm.online.Downloader -- Extracting driver from compressed file chromedriver-mac-arm64.zip
+5850 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.76/chromedriver
+339  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/wyatt/Library/Caches/JetBrains/IntelliJIdea2024.2/temp-testng-customsuite.xml
+
+592  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.76 (resolved driver for Chrome 141)
+615  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.76/chromedriver
+373  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/wyatt/Library/Caches/JetBrains/IntelliJIdea2024.2/temp-testng-customsuite.xml
+
+5720 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.76 (resolved driver for Chrome 141)
+5728 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.76/chromedriver
+642  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/wyatt/Library/Caches/JetBrains/IntelliJIdea2024.2/temp-testng-customsuite.xml
+
+1034 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.76 (resolved driver for Chrome 141)
+1052 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.76/chromedriver
+484  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/wyatt/Library/Caches/JetBrains/IntelliJIdea2024.2/temp-testng-customsuite.xml
+
+776  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.76 (resolved driver for Chrome 141)
+788  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.76/chromedriver
+340  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/wyatt/Library/Caches/JetBrains/IntelliJIdea2024.2/temp-testng-customsuite.xml
+
+582  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.76 (resolved driver for Chrome 141)
+592  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.76/chromedriver
+312  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/wyatt/Library/Caches/JetBrains/IntelliJIdea2024.2/temp-testng-customsuite.xml
+
+547  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.76 (resolved driver for Chrome 141)
+557  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.76/chromedriver
+251  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/wyatt/Library/Caches/JetBrains/IntelliJIdea2024.2/temp-testng-customsuite.xml
+
+451  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.76 (resolved driver for Chrome 141)
+460  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.76/chromedriver
+8385 [main] INFO  c.b.p.f.FlightConfirmationPage -- Flight confirmation# : 2025-10-1760391699452
+8385 [main] INFO  c.b.p.f.FlightConfirmationPage -- Total price: $1169 USD
+242  [main] WARN  o.testng.xml.TestNGContentHandler -- It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [/Users/wyatt/Desktop/未命名文件夹/学习/SDET_Automation_Architect/src/test/resources/test-suites/flight-reservation.xml] otherwise TestNG may fail or not work as expected.
+214  [main] WARN  o.testng.xml.TestNGContentHandler -- It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [/Users/wyatt/Desktop/未命名文件夹/学习/SDET_Automation_Architect/src/test/resources/test-suites/flight-reservation.xml] otherwise TestNG may fail or not work as expected.
+316  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/wyatt/Desktop/未命名文件夹/学习/SDET_Automation_Architect/src/test/resources/test-suites/flight-reservation.xml
+
+5143 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.76 (resolved driver for Chrome 141)
+5168 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.76/chromedriver
+16224 [main] INFO  c.b.p.f.FlightConfirmationPage -- Flight confirmation# : 2025-10-1760399024956
+16225 [main] INFO  c.b.p.f.FlightConfirmationPage -- Total price: $584 USD
+391  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/wyatt/Desktop/未命名文件夹/学习/SDET_Automation_Architect/src/test/resources/test-suites/flight-reservation.xml
+
+5470 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.78 (resolved driver for Chrome 141)
+5500 [main] INFO  i.g.b.wdm.online.Downloader -- Downloading https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.78/mac-arm64/chromedriver-mac-arm64.zip
+5779 [main] INFO  i.g.b.wdm.online.Downloader -- Extracting driver from compressed file chromedriver-mac-arm64.zip
+5871 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.78/chromedriver
+13165 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.78 (resolved driver for Chrome 141)
+13168 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.78/chromedriver
+17730 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.78 (resolved driver for Chrome 141)
+17733 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.78/chromedriver
+21904 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.78 (resolved driver for Chrome 141)
+21907 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.78/chromedriver
+353  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/wyatt/Desktop/未命名文件夹/学习/SDET_Automation_Architect/src/test/resources/test-suites/flight-reservation.xml
+
+590  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.78 (resolved driver for Chrome 141)
+599  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.78/chromedriver
+9821 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.78 (resolved driver for Chrome 141)
+9823 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.78/chromedriver
+17265 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.78 (resolved driver for Chrome 141)
+17273 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.78/chromedriver
+269  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/wyatt/Desktop/未命名文件夹/学习/SDET_Automation_Architect/src/test/resources/test-suites/flight-reservation.xml
+
+481  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.78 (resolved driver for Chrome 141)
+489  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.78/chromedriver
+6354 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.78 (resolved driver for Chrome 141)
+6358 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.78/chromedriver
+12210 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.78 (resolved driver for Chrome 141)
+12216 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.78/chromedriver
+18908 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.78 (resolved driver for Chrome 141)
+18910 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.78/chromedriver
+399  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/wyatt/Desktop/未命名文件夹/学习/SDET_Automation_Architect/src/test/resources/test-suites/flight-reservation.xml
+
+644  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.78 (resolved driver for Chrome 141)
+655  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.78/chromedriver
+49303 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.78 (resolved driver for Chrome 141)
+49306 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.78/chromedriver
+81670 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.78 (resolved driver for Chrome 141)
+81673 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.78/chromedriver
+88301 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.78 (resolved driver for Chrome 141)
+88303 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.78/chromedriver
+105879 [main] INFO  c.b.p.f.FlightConfirmationPage -- Flight confirmation# : 2025-10-1760579410802
+105880 [main] INFO  c.b.p.f.FlightConfirmationPage -- Total price: $2338 USD
+527  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/wyatt/Desktop/未命名文件夹/学习/SDET_Automation_Architect/src/test/resources/test-suites/flight-reservation.xml
+
+801  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.78 (resolved driver for Chrome 141)
+811  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.78/chromedriver
+9825 [main] INFO  c.b.p.f.FlightConfirmationPage -- Flight confirmation# : 2025-10-1760579457738
+9826 [main] INFO  c.b.p.f.FlightConfirmationPage -- Total price: $584 USD
+10006 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.78 (resolved driver for Chrome 141)
+10010 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.78/chromedriver
+18652 [main] INFO  c.b.p.f.FlightConfirmationPage -- Flight confirmation# : 2025-10-1760579466642
+18652 [main] INFO  c.b.p.f.FlightConfirmationPage -- Total price: $1169 USD
+18794 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.78 (resolved driver for Chrome 141)
+18798 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.78/chromedriver
+24236 [main] INFO  c.b.p.f.FlightConfirmationPage -- Flight confirmation# : 2025-10-1760579472135
+24236 [main] INFO  c.b.p.f.FlightConfirmationPage -- Total price: $1753 USD
+24352 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.78 (resolved driver for Chrome 141)
+24354 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.78/chromedriver
+32239 [main] INFO  c.b.p.f.FlightConfirmationPage -- Flight confirmation# : 2025-10-1760579480308
+32240 [main] INFO  c.b.p.f.FlightConfirmationPage -- Total price: $2338 USD
+439  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/wyatt/Library/Caches/JetBrains/IntelliJIdea2024.2/temp-testng-customsuite.xml
+
+1871 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.78 (resolved driver for Chrome 141)
+1880 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.78/chromedriver
+310  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/wyatt/Library/Caches/JetBrains/IntelliJIdea2024.2/temp-testng-customsuite.xml
+
+544  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.78 (resolved driver for Chrome 141)
+556  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.78/chromedriver
+6147 [main] INFO  c.b.p.vendorportal.DashboardPage -- Results count: 8
+320  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/wyatt/Library/Caches/JetBrains/IntelliJIdea2024.2/temp-testng-customsuite.xml
+
+561  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.78 (resolved driver for Chrome 141)
+570  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.78/chromedriver
+5988 [main] INFO  c.b.p.vendorportal.DashboardPage -- Results count: 8
+299  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/wyatt/Library/Caches/JetBrains/IntelliJIdea2024.2/temp-testng-customsuite.xml
+
+499  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.78 (resolved driver for Chrome 141)
+508  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.78/chromedriver
+5154 [main] INFO  c.b.p.vendorportal.DashboardPage -- Results count: 8
+319  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/wyatt/Library/Caches/JetBrains/IntelliJIdea2024.2/temp-testng-customsuite.xml
+
+5584 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.122 (resolved driver for Chrome 141)
+5614 [main] INFO  i.g.b.wdm.online.Downloader -- Downloading https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.122/mac-arm64/chromedriver-mac-arm64.zip
+5999 [main] INFO  i.g.b.wdm.online.Downloader -- Extracting driver from compressed file chromedriver-mac-arm64.zip
+6093 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.122/chromedriver
+13868 [main] INFO  c.b.p.vendorportal.DashboardPage -- Results count: 8
+466  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/wyatt/Desktop/未命名文件夹/学习/SDET_Automation_Architect/src/test/resources/test-suites/flight-reservation.xml
+
+761  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.122 (resolved driver for Chrome 141)
+769  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.122/chromedriver
+18878 [main] INFO  c.b.p.f.FlightConfirmationPage -- Flight confirmation# : 2025-10-1761592985619
+18879 [main] INFO  c.b.p.f.FlightConfirmationPage -- Total price: $584 USD
+19874 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.122 (resolved driver for Chrome 141)
+19880 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.122/chromedriver
+30552 [main] INFO  c.b.p.f.FlightConfirmationPage -- Flight confirmation# : 2025-10-1761592997305
+30555 [main] INFO  c.b.p.f.FlightConfirmationPage -- Total price: $1169 USD
+30730 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.122 (resolved driver for Chrome 141)
+30736 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.122/chromedriver
+37648 [main] INFO  c.b.p.f.FlightConfirmationPage -- Flight confirmation# : 2025-10-1761593004299
+37648 [main] INFO  c.b.p.f.FlightConfirmationPage -- Total price: $1753 USD
+37883 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.122 (resolved driver for Chrome 141)
+37889 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.122/chromedriver
+46002 [main] INFO  c.b.p.f.FlightConfirmationPage -- Flight confirmation# : 2025-10-1761593012772
+46004 [main] INFO  c.b.p.f.FlightConfirmationPage -- Total price: $2338 USD
+635  [main] INFO  com.bny.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+726  [main] ERROR com.bny.util.JsonUtil -- unable to read test data test-data/vendor-portal/john.json
+294  [main] INFO  com.bny.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+339  [main] ERROR com.bny.util.JsonUtil -- unable to read test data test-data/vendor-portal/john.json
+12294 [main] INFO  com.bny.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+32539 [main] INFO  com.bny.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+49670 [main] ERROR com.bny.util.JsonUtil -- unable to read test data test-data/vendor-portal/john.json
+1907 [main] INFO  com.bny.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+28761 [main] ERROR com.bny.util.JsonUtil -- unable to read test data test-data/vendor-portal/john.json
+314  [main] INFO  com.bny.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+379  [main] ERROR com.bny.util.JsonUtil -- unable to read test data test-data/vendor-portal/john.json
+321  [main] INFO  com.bny.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+355  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/wyatt/Desktop/未命名文件夹/学习/SDET_Automation_Architect/src/test/resources/test-suites/vendor-portal.xml
+
+6200 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.122 (resolved driver for Chrome 141)
+6220 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.122/chromedriver
+9178 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.122 (resolved driver for Chrome 141)
+9186 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.122/chromedriver
+10543 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.122 (resolved driver for Chrome 141)
+10552 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.122/chromedriver
+290  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/wyatt/Desktop/未命名文件夹/学习/SDET_Automation_Architect/src/test/resources/test-suites/vendor-portal.xml
+
+540  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.122 (resolved driver for Chrome 141)
+553  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.122/chromedriver
+3482 [main] INFO  com.bny.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+6164 [main] INFO  c.b.p.vendorportal.DashboardPage -- Results count: 8
+7537 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.122 (resolved driver for Chrome 141)
+7551 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.122/chromedriver
+9219 [main] INFO  com.bny.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+10422 [main] INFO  c.b.p.vendorportal.DashboardPage -- Results count: 10
+30478 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.122 (resolved driver for Chrome 141)
+30484 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.122/chromedriver
+31847 [main] INFO  com.bny.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+372  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/wyatt/Library/Caches/JetBrains/IntelliJIdea2024.2/temp-testng-customsuite.xml
+
+5589 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.122 (resolved driver for Chrome 141)
+5601 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.122/chromedriver
+309  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/wyatt/Library/Caches/JetBrains/IntelliJIdea2024.2/temp-testng-customsuite.xml
+
+540  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.122 (resolved driver for Chrome 141)
+549  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.122/chromedriver
+341  [main] INFO  com.bny.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+319  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/wyatt/Desktop/未命名文件夹/学习/SDET_Automation_Architect/src/test/resources/test-suites/flight-reservation.xml
+
+565  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.122 (resolved driver for Chrome 141)
+574  [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.122/chromedriver
+3607 [main] INFO  com.bny.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/flight-reservation/passenger-1.json
+10261 [main] INFO  c.b.p.f.FlightConfirmationPage -- Flight confirmation# : 2025-10-1761701117996
+10261 [main] INFO  c.b.p.f.FlightConfirmationPage -- Total price: $584 USD
+10493 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.122 (resolved driver for Chrome 141)
+10497 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.122/chromedriver
+11569 [main] INFO  com.bny.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/flight-reservation/passenger-2.json
+16104 [main] INFO  c.b.p.f.FlightConfirmationPage -- Flight confirmation# : 2025-10-1761701123967
+16105 [main] INFO  c.b.p.f.FlightConfirmationPage -- Total price: $1169 USD
+16212 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.122 (resolved driver for Chrome 141)
+16214 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.122/chromedriver
+17070 [main] INFO  com.bny.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/flight-reservation/passenger-3.json
+22131 [main] INFO  c.b.p.f.FlightConfirmationPage -- Flight confirmation# : 2025-10-1761701129710
+22132 [main] INFO  c.b.p.f.FlightConfirmationPage -- Total price: $1753 USD
+250  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/wyatt/Desktop/未命名文件夹/学习/SDET_Automation_Architect/automation-framework/src/test/resources/test-suites/vendor-portal.xml
+
+4766 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.122 (resolved driver for Chrome 141)
+4778 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.122/chromedriver
+6740 [main] INFO  com.bny.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+8989 [main] INFO  c.b.p.vendorportal.DashboardPage -- Results count: 8
+10318 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.122 (resolved driver for Chrome 141)
+10326 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.122/chromedriver
+11499 [main] INFO  com.bny.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+13193 [main] INFO  c.b.p.vendorportal.DashboardPage -- Results count: 10
+18117 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 141.0.7390.122 (resolved driver for Chrome 141)
+18120 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as /Users/wyatt/.cache/selenium/chromedriver/mac-arm64/141.0.7390.122/chromedriver
+19213 [main] INFO  com.bny.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
